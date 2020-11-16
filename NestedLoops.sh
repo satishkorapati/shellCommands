@@ -1,4 +1,6 @@
 
+#This is the program to check the nested loops capability
+#This is my first Nested Loop Program
 a=0
 while [ $a -lt 10 ]
 do
