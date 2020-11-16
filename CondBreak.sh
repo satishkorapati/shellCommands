@@ -1,7 +1,9 @@
+
 a=0
 while [ $a -lt 10 ]
 do
   echo $a
+#Checking for the condition
   if [ $a -eq 5 ]
   then
    break
